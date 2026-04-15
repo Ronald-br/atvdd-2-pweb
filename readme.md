@@ -50,3 +50,4 @@ A atividade ajudou a entender melhor como sistemas reais funcionam, mesmo sem ac
 ## Autor
 
 Atividade desenvolvida por aluno para fins acadêmicos.
+Este repositório contém a atividade completa de análise de sistema solicitada em sala.
